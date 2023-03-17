@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "Runtime 22.2 on Python 3.10 (2vCPU/4GBMem)",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2023-03-17T01:37:07Z",
+    "created": 1679017027568,
+    "asset_id": "hardware_specification.Runtime222onPython3102vCPU4GBMem",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "2",
+          "model": ""
+        },
+        "mem": {
+          "size": "4Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
